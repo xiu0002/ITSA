@@ -20,9 +20,9 @@
 Spring
 Autumn
 
-### 解答
+#### 解答
 
-ˋˋˋ
+```
 #include <iostream>
 using namespace std;
 
@@ -43,4 +43,4 @@ int main()
 
 	return 0;
 }
-ˋˋˋ
+```
